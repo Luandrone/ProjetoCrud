@@ -1,0 +1,9 @@
+#root {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.produtos table {
+    border: 1px solid black;
+}
+
